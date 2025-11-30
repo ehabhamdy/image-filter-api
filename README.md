@@ -5,7 +5,6 @@ RESTful API for filtering images with authentication.
 ## Setup
 
 ```bash
-cd "project starter code"
 npm install
 ```
 
@@ -40,4 +39,3 @@ curl -H "X-API-Key: udacity-image-filter-2025" \
 
 ## Deployment
 See `deployment_screenshots/DEPLOYMENT.md` for AWS Elastic Beanstalk deployment instructions.
-
